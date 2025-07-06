@@ -20,8 +20,8 @@ env/
 .vscode/
 
 # Output
-static/outputs/
-static/uploads/
+# static/outputs/
+# static/uploads/
 
 # System
 Thumbs.db

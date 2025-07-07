@@ -1,3 +1,9 @@
 # bakup files
 **/*.bak
 **/* copy.*
+
+# Output files, but keep empty dirs
+static/outputs/*
+static/uploads/*
+!static/outputs/.gitkeep
+!static/uploads/.gitkeep
